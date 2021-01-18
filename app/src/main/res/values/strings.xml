@@ -51,18 +51,18 @@
 
     <integer-array name="data_foto">
         <item>@drawable/ic_buang_tisu_pada_tempat_aman</item>
-        <item>@drawable/cuci_tangan</item>
-        <item>@drawable/dirumah_aja</item>
-        <item>@drawable/hidup_bersih</item>
-        <item>@drawable/hindari_keramaian</item>
-        <item>@drawable/hindari_kontak_langsung</item>
-        <item>@drawable/jangan_sentuh_area_muka</item>
-        <item>@drawable/konsultasi_dokter</item>
-        <item>@drawable/tutup_hidung_jika_batuk</item>
-        <item>@drawable/gunakan_masker</item>
-        <item>@drawable/jangan_bagikan_makanan</item>
-        <item>@drawable/hindari_kontak_binatang</item>
-        <item>@drawable/jangan_traveling</item>
-        <item>@drawable/masak_makanan_suhu_tinggi</item>
+        <item>@drawable/ic_cuci_tangan</item>
+        <item>@drawable/ic_dirumah_aja</item>
+        <item>@drawable/ic_hidup_bersih</item>
+        <item>@drawable/ic_hindari_keramaian</item>
+        <item>@drawable/ic_hindari_kontak_langsung</item>
+        <item>@drawable/ic_jangan_sentuh_area_muka</item>
+        <item>@drawable/ic_konsultasi_dokter</item>
+        <item>@drawable/ic_tutup_hidung_jika_batuk</item>
+        <item>@drawable/ic_gunakan_masker</item>
+        <item>@drawable/ic_jangan_bagikan_makanan</item>
+        <item>@drawable/ic_hindari_kontak_binatang</item>
+        <item>@drawable/ic_jangan_traveling</item>
+        <item>@drawable/ic_masak_makanan_suhu_tinggi</item>
     </integer-array>
 </resources>
