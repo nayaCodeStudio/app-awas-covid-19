@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bgItem">#333333</color>
+    <color name="bgAbu">#7f7f7f</color>
+    <color name="bgGainsBoro">#D3D3D3</color>
+    <color name="bgKuningTua">#FF9800</color>
+    <color name="bgKuningMuda">#FFBF01</color>
+    <color name="textColor">#272727</color>
+</resources>

@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Awas Covid-19</string>
+    <string name="title_about_app">Tentang Aplikasi</string>
+    <string name="selamat_datang_di_aplikasi_awas_covid_19">Selamat Datang di Aplikasi Awas Covid-19</string>
+    <string name="aplikasi_ini_dibuat_dengan_tujuan_agar_dapat_dengan_mudah_mengakses_info_terkini_mengenai_kasus_wabah_covid_19_dan_sebagai_upaya_informasi_pencegahannya">Aplikasi ini dibuat dengan tujuan agar dapat dengan mudah mengakses info terkini mengenai kasus wabah Covid-19 dan sebagai upaya informasi pencegahannya.</string>
+    <string name="stay_safe_ya_di_new_normal_saat_ini_patuhi_protokol_keamanan_dan_jangan_lupa_kenakan_masker_bila_bepergian">Stay safe ya di New Normal saat ini, patuhi protokol keamanan dan jangan lupa kenakan masker bila bepergian.</string>
+    <string name="cari_nama_negara">Cari nama negara...</string>
+    <string name="status_covid_19_npada_tingkat_global">Status Covid-19 \nPada Tingkat Global</string>
+    <string name="data_update_saat_ini">Data Update Saat Ini</string>
+    <string name="kasus_hari_ini">📋 Kasus hari ini : </string>
+    <string name="value">-</string>
+    <string name="total_kasus">🧐 Total kasus : </string>
+    <string name="terkonfirmasi_terinfeksi">🤢 Terkonfirmasi terinfeksi : </string>
+    <string name="sembuh">😊 Sembuh : </string>
+    <string name="kematian_hari_ini">😭 Kematian hari ini : </string>
+    <string name="total_kasus_kematian">💀 Total kasus kematian : </string>
+    <string name="jumlah_negara_yang_terinfeksi">🌏 Jumlah negara yang terinfeksi : </string>
+    <string name="status_covid_19_npada_tingkat_negara">Status Covid-19 \nPada Tingkat Negara</string>
+    <string name="menu_utama">Menu Utama</string>
+    <string name="kasus_tingkat_global">Kasus Tingkat Global</string>
+    <string name="cari_berdasarkan_negara">Cari Berdasarkan Negara</string>
+    <string name="upaya_pencegahan">Upaya Pencegahan</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="awas_covid_19">Awas Covid-19</string>
+    <string name="versi_aplikasi_1_0_0_n_copyright_naya_nurwiyoga_all_right_reserved_n_universitas_pakuan_bogor">Versi Aplikasi 1.0.0 \n Copyright © nayaCodeStudio All Right Reserved \n Universitas Pakuan Bogor</string>
+    <string name="hai_nselamat_datang_di_aplikasi_awas_covid_19_semoga_semuanya_sehat_ya_tetap_dirumah_dan_kenakan_masker_bila_bepergian">Hai, \nSelamat datang di aplikasi Awas Covid-19, semoga semuanya sehat ya, tetap dirumah dan kenakan masker bila bepergian.</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="flag">Flag</string>
+    <string name="upaya_pencegahan_yang_bisa_dilakukan_agar_terhindar_dari_infeksi_virus_covid_19">Upaya Pencegahan Yang Bisa Dilakukan Agar Terhindar Dari Infeksi Virus Covid-19</string>
+    <string name="nama_negara">🏛 Nama negara : </string>
+    <string name="ada_kendala_di_koneksi_internet">Ada kendala di koneksi internet.</string>
+    <string name="coba_check_koneksi_internet_kamu_atau_tekan_tombol_refresh_dibawah">Coba check koneksi internet kamu, atau tekan tombol refresh dibawah!</string>
+    <string name="refresh">Refresh</string>
+
+    <string-array name="data_description">
+        <item>Buang bekas tisu yang telah digunakan ke tempat sampah dan cuci tangan.</item>
+        <item>Cuci tangan dengan air dan sabun atau hand sanitaizer minimal 20 detik.</item>
+        <item>Tetap dirumah bila tidak ada kepentingan diluar.</item>
+        <item>Bersihkan rumah dan barang pribadi menggunakan cairan alkohol atau cairan disinfektan secara rutin.</item>
+        <item>Hindari keramaian saat bepergian keluar rumah.</item>
+        <item>Hindari kontak dengan orang lain atau jaga jarak.</item>
+        <item>Jangan sentuh hidung, mulut, dan wajah tanpa mencusi tangan terlebih dahulu.</item>
+        <item>Konsultasi kesehatan jika ada gejala-gejala akan sakit badan.</item>
+        <item>Tutup hidung dan mulut dengan tisue atau siku tangan jika batuk atau bersin.</item>
+        <item>Gunakan masker jika keluar rumah atau bepergian.</item>
+        <item>Jangan berbagi atau menerima makanan dengan orang lain.</item>
+        <item>Hindari kontak secara langsung dengan binatang.</item>
+        <item>Jangan bepergian antar negara karena sangat beresiko tinggi terpapar virus Covid-19.</item>
+        <item>Masaklah makanan dengan suhu tinggi.</item>
+    </string-array>
+
+    <integer-array name="data_foto">
+        <item>@drawable/ic_buang_tisu_pada_tempat_aman</item>
+        <item>@drawable/cuci_tangan</item>
+        <item>@drawable/dirumah_aja</item>
+        <item>@drawable/hidup_bersih</item>
+        <item>@drawable/hindari_keramaian</item>
+        <item>@drawable/hindari_kontak_langsung</item>
+        <item>@drawable/jangan_sentuh_area_muka</item>
+        <item>@drawable/konsultasi_dokter</item>
+        <item>@drawable/tutup_hidung_jika_batuk</item>
+        <item>@drawable/gunakan_masker</item>
+        <item>@drawable/jangan_bagikan_makanan</item>
+        <item>@drawable/hindari_kontak_binatang</item>
+        <item>@drawable/jangan_traveling</item>
+        <item>@drawable/masak_makanan_suhu_tinggi</item>
+    </integer-array>
+</resources>
